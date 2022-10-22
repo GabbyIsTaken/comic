@@ -12,6 +12,78 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/fyEdKsH"
       }
+    },
+    "2": {
+      "title": "The Knight, Part 2",
+      "volume": "",
+      "last_updated": "1666469445",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ucokV8p"
+      }
+    },
+    "3": {
+      "title": "The Knight, Part 3",
+      "volume": "",
+      "last_updated": "1666472226",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dw7kRik"
+      }
+    },
+    "4": {
+      "title": "The Knight, Part 4",
+      "volume": "",
+      "last_updated": "1666472825",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6nJWCfN"
+      }
+    },
+    "5": {
+      "title": "The Knight, Part 5",
+      "volume": "",
+      "last_updated": "1666474368",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fzHi3ru"
+      }
+    },
+    "6": {
+      "title": "The Knight, Part 6",
+      "volume": "",
+      "last_updated": "1666474786",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Bu8xoZX"
+      }
+    },
+    "7": {
+      "title": "The Knight, Part 7",
+      "volume": "",
+      "last_updated": "1666475037",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/60lMtlh"
+      }
+    },
+    "8": {
+      "title": "The Knight, Part 8",
+      "volume": "",
+      "last_updated": "1666475161",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/g8htTOX"
+      }
+    },
+    "9": {
+      "title": "The Knight, Part 9",
+      "volume": "",
+      "last_updated": "1666475238",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1paA28n"
+      }
+    },
+    "10": {
+      "title": "The Knight, Finale",
+      "volume": "",
+      "last_updated": "1666475283",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KKOSeys"
+      }
     }
   }
 }
