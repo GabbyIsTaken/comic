@@ -42,7 +42,7 @@
       "volume": "",
       "last_updated": "1666509637",
       "groups": {
-        "": "/proxy/api/imgur/chapter/NpMVQor"
+        "": "/proxy/api/imgur/chapter/3GxD6X5"
       }
     },
     "6": {
@@ -50,7 +50,7 @@
       "volume": "",
       "last_updated": "1666509711",
       "groups": {
-        "": "/proxy/api/imgur/chapter/SLzMDEo"
+        "": "/proxy/api/imgur/chapter/sbDhdyn"
       }
     },
     "7": {
@@ -58,9 +58,7 @@
       "volume": "",
       "last_updated": "1666510067",
       "groups": {
-        "": [
-          ""
-        ]
+        "": "/proxy/api/imgur/chapter/p5IyFoP"
       }
     },
     "8": {
@@ -68,7 +66,7 @@
       "volume": "",
       "last_updated": "1666510079",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/OWAwaOZ"
       }
     },
     "9": {
@@ -76,9 +74,7 @@
       "volume": "",
       "last_updated": "1666510104",
       "groups": {
-        "": [
-          ""
-        ]
+        "": "/proxy/api/imgur/chapter/vS63zrx"
       }
     },
     "10": {
@@ -86,7 +82,7 @@
       "volume": "",
       "last_updated": "1666510111",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/mcy6HzK"
       }
     },
     "11": {
@@ -141,6 +137,14 @@
       "title": "Bad Guys",
       "volume": "",
       "last_updated": "1666510089",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0RpKClW"
+      }
+    },
+    "12.5": {
+      "title": "Imposter Syndrome",
+      "volume": "",
+      "last_updated": "1666554290",
       "groups": {
         "": ""
       }
