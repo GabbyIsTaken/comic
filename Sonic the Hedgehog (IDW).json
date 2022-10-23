@@ -53,12 +53,96 @@
         "": "/proxy/api/imgur/chapter/SLzMDEo"
       }
     },
+    "7": {
+      "title": "All or Nothing",
+      "volume": "",
+      "last_updated": "1666510067",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "8": {
+      "title": "Out of the Blue",
+      "volume": "",
+      "last_updated": "1666510079",
+      "groups": {
+        "": ""
+      }
+    },
+    "9": {
+      "title": "Chao Races and Badnik Bases",
+      "volume": "",
+      "last_updated": "1666510104",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "10": {
+      "title": "Test Run!",
+      "volume": "",
+      "last_updated": "1666510111",
+      "groups": {
+        "": ""
+      }
+    },
+    "11": {
+      "title": "Zeti Hunt!",
+      "volume": "",
+      "last_updated": "1666510128",
+      "groups": {
+        "": ""
+      }
+    },
+    "12": {
+      "title": "Trial by Fire",
+      "volume": "",
+      "last_updated": "1666510215",
+      "groups": {
+        "": ""
+      }
+    },
+    "13": {
+      "title": "Battle for the Empire",
+      "volume": "",
+      "last_updated": "1666510226",
+      "groups": {
+        "": ""
+      }
+    },
+    "14": {
+      "title": "Overpowered",
+      "volume": "",
+      "last_updated": "1666510247",
+      "groups": {
+        "": ""
+      }
+    },
+    "999": {
+      "title": "Scrapnik Island, Part 1",
+      "volume": "",
+      "last_updated": "1666510266",
+      "groups": {
+        "": ""
+      }
+    },
     "4.5": {
       "title": "Tangle and Whisper",
       "volume": "",
       "last_updated": "1666509566",
       "groups": {
         "": "/proxy/api/imgur/chapter/xgYvxww"
+      }
+    },
+    "8.5": {
+      "title": "Bad Guys",
+      "volume": "",
+      "last_updated": "1666510089",
+      "groups": {
+        "": ""
       }
     }
   }
