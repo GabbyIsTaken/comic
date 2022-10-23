@@ -1,0 +1,65 @@
+{
+  "title": "Sonic the Hedgehog (IDW)",
+  "description": "ON YOUR MARKS. GET SET. GO! The adventure begins here as Sonic races to protect the world from bad guys old and new! In the aftermath of his latest battle with Dr. Eggman, rogue robots are on the loose and new foes are on the rise. But where is the evil doctor and what secrets will Sonic discover during his search? One thing’s for sure: he’ll need plenty of help from Tails, Knuckles, Amy, and new allies Tangle the Lemur and Whisper the Wolf. Plus, he’ll have to deal with a little competition—from his old rival Shadow the Hedgehog! It’s an epic storyline Sonic fans can’t miss, so don’t get left in the dust.",
+  "artist": "Various",
+  "author": "Ian Flynn, Evan Stanley",
+  "cover": "https://2.bp.blogspot.com/8eSnsVascaG53fk5lQFmmXFa8le8ljBIXNCAJPDRKlNPGJUHOwrK3JweVcSB5CDmVniR8TB9g0ZqJEDwQEqU3zp5a0UnLQs0WNpTejr-1YyOXSUPgFkvbYFr4zB_VWtTNH_BWrViiw=s0?rhlupa=MjYwMTo1ODM6ODIwMDo3MmQwOjpmMjFl&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNi4wLjAuMCBTYWZhcmkvNTM3LjM2",
+  "chapters": {
+    "1": {
+      "title": "Fallout!",
+      "volume": "",
+      "last_updated": "1666509324",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/suGd1c5"
+      }
+    },
+    "2": {
+      "title": "The Fate of Dr. Eggman",
+      "volume": "",
+      "last_updated": "1666509407",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CAaHEtf"
+      }
+    },
+    "3": {
+      "title": "Battle for Angel Island",
+      "volume": "",
+      "last_updated": "1666509462",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pffdoME"
+      }
+    },
+    "4": {
+      "title": "Infection",
+      "volume": "",
+      "last_updated": "1666509512",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DSeUwmr"
+      }
+    },
+    "5": {
+      "title": "Crisis City",
+      "volume": "",
+      "last_updated": "1666509637",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NpMVQor"
+      }
+    },
+    "6": {
+      "title": "The Last Minute",
+      "volume": "",
+      "last_updated": "1666509711",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/SLzMDEo"
+      }
+    },
+    "4.5": {
+      "title": "Tangle and Whisper",
+      "volume": "",
+      "last_updated": "1666509566",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xgYvxww"
+      }
+    }
+  }
+}
