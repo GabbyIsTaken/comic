@@ -4,5 +4,14 @@
   "artist": "Dave Gibbons",
   "author": "Alan Moore",
   "cover": "https://m.media-amazon.com/images/I/71pgBiyXh8L.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Watchmen",
+      "volume": "",
+      "last_updated": "1666767367",
+      "groups": {
+        "": ""
+      }
+    }
+  }
 }
