@@ -109,12 +109,28 @@
         "": "/proxy/api/imgur/chapter/hySgj9S"
       }
     },
-    "14": {
-      "title": "Overpowered",
+    "52": {
+      "title": "Overpowered, Part 1",
       "volume": "",
-      "last_updated": "1666510247",
+      "last_updated": "1666921788",
       "groups": {
-        "": "/proxy/api/imgur/chapter/HuTYRTS"
+        "": "/proxy/api/imgur/chapter/g5yOej2"
+      }
+    },
+    "53": {
+      "title": "Overpowered, Part 2",
+      "volume": "",
+      "last_updated": "1666921805",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EKlvcyb"
+      }
+    },
+    "54": {
+      "title": "Overpowered, Part 3",
+      "volume": "",
+      "last_updated": "1666922142",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/M9YSKWw"
       }
     },
     "999": {
