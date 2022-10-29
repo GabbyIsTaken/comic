@@ -1,0 +1,41 @@
+{
+  "title": "Gotham Central",
+  "description": "IN THE SHADOW OF THE BAT. IT’S NOT EASY BEING A COP IN GOTHAM CITY.\nNot only must you deal with the violence and corruption of the world’s most notoriously crime-infested city catering to some of the most insane and homicidal criminals, but you also have to deal with a vigilante who’s hellbent on playing by his own rules.",
+  "artist": "Michael Lark",
+  "author": "Ed Brubaker, Greg Rucka",
+  "cover": "https://2.bp.blogspot.com/-yqKDxt_GbJE/VxEVj0DgpSI/AAAAAAAABQc/vOCxwHIkXYg3EmEH8uO2Wm2DUvMNoTSIgCCo/s0-Ic42/RCO001.jpg",
+  "chapters": {
+    "1": {
+      "title": "In the Line of Duty",
+      "volume": "",
+      "last_updated": "1667026447",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "Jokers and Madmen",
+      "volume": "",
+      "last_updated": "1667026510",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "On the Freak Beat",
+      "volume": "",
+      "last_updated": "1667026521",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "Corrigan",
+      "volume": "",
+      "last_updated": "1667026531",
+      "groups": {
+        "": ""
+      }
+    }
+  }
+}
