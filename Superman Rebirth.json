@@ -29,6 +29,38 @@
         "": ""
       }
     },
+    "4": {
+      "title": "Black Dawn",
+      "volume": "",
+      "last_updated": "1667077334",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "Hopes and Fears",
+      "volume": "",
+      "last_updated": "1667077347",
+      "groups": {
+        "": ""
+      }
+    },
+    "6": {
+      "title": "Imperious Lex",
+      "volume": "",
+      "last_updated": "1667077370",
+      "groups": {
+        "": ""
+      }
+    },
+    "7": {
+      "title": "Bizarroverse",
+      "volume": "",
+      "last_updated": "1667077379",
+      "groups": {
+        "": ""
+      }
+    },
     "0.1": {
       "title": "Lois and Clark",
       "volume": "",
@@ -41,6 +73,14 @@
       "title": "The Final Days of Superman",
       "volume": "",
       "last_updated": "1667076817",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ifih6us"
+      }
+    },
+    "3.5": {
+      "title": "Superman Reborn",
+      "volume": "",
+      "last_updated": "1667077393",
       "groups": {
         "": ""
       }
