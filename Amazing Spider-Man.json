@@ -4,5 +4,504 @@
   "artist": "Various",
   "author": "Various",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Lee v01: Spider-Man - Freak! Public Menace!",
+      "volume": "",
+      "last_updated": "1668112679",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "Lee v02: Unmasked by Dr. Octopus",
+      "volume": "",
+      "last_updated": "1668112723",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "Lee v03: The Goblin and the Gangsters",
+      "volume": "",
+      "last_updated": "1668112772",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "Lee v04: If This Be My Destiny...!",
+      "volume": "",
+      "last_updated": "1668112842",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "Lee v05: Spider-Man No More!",
+      "volume": "",
+      "last_updated": "1668112916",
+      "groups": {
+        "": ""
+      }
+    },
+    "6": {
+      "title": "Lee v06: In the Clutches of... the Kingpin!",
+      "volume": "",
+      "last_updated": "1668113051",
+      "groups": {
+        "": ""
+      }
+    },
+    "7": {
+      "title": "Lee v07: Wings in the Night",
+      "volume": "",
+      "last_updated": "1668113219",
+      "groups": {
+        "": ""
+      }
+    },
+    "8": {
+      "title": "Lee v08: Mission - Crush the Kingpin!",
+      "volume": "",
+      "last_updated": "1668113283",
+      "groups": {
+        "": ""
+      }
+    },
+    "9": {
+      "title": "Lee v09: Unmasked at Last!",
+      "volume": "",
+      "last_updated": "1668113327",
+      "groups": {
+        "": ""
+      }
+    },
+    "10": {
+      "title": "Lee v10: And Death Shall Come!",
+      "volume": "",
+      "last_updated": "1668113453",
+      "groups": {
+        "": ""
+      }
+    },
+    "11": {
+      "title": "Lee (Mostly) v11: A Monster Called... Morbius!",
+      "volume": "",
+      "last_updated": "1668113513",
+      "groups": {
+        "": ""
+      }
+    },
+    "12": {
+      "title": "Conway v01: Gang War, Schmang War! What I Want to Know Is... Who the Heck is Hammerhead?",
+      "volume": "",
+      "last_updated": "1668113589",
+      "groups": {
+        "": ""
+      }
+    },
+    "13": {
+      "title": "Conway v02: The Night Gwen Stacy Dies",
+      "volume": "",
+      "last_updated": "1668113659",
+      "groups": {
+        "": ""
+      }
+    },
+    "14": {
+      "title": "Conway v03: Dead Man's Bluff!",
+      "volume": "",
+      "last_updated": "1668113879",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "15": {
+      "title": "Conway v04/Wein v01: Spider-Man... or Spider-Clone?",
+      "volume": "",
+      "last_updated": "1668113930",
+      "groups": {
+        "": ""
+      }
+    },
+    "16": {
+      "title": "Wein v02: Arm-In-Arm-In-Arm-In-Arm-In-Arm-In-Arm with Doctor Octopus",
+      "volume": "",
+      "last_updated": "1668113958",
+      "groups": {
+        "": ""
+      }
+    },
+    "17": {
+      "title": "Wein v03: Confrontation",
+      "volume": "",
+      "last_updated": "1668114116",
+      "groups": {
+        "": ""
+      }
+    },
+    "18": {
+      "title": "Wolfman v01: ...And Where the Big Wheel Stops, Nobody Knows!",
+      "volume": "",
+      "last_updated": "1668114333",
+      "groups": {
+        "": ""
+      }
+    },
+    "19": {
+      "title": "Wolfman v02: Never Let the Black Cat Cross Your Path!",
+      "volume": "",
+      "last_updated": "1668114519",
+      "groups": {
+        "": ""
+      }
+    },
+    "20": {
+      "title": "O'Neil (Mostly) v01: The Prophecy of Madame Web!",
+      "volume": "",
+      "last_updated": "1668114549",
+      "groups": {
+        "": ""
+      }
+    },
+    "21": {
+      "title": "O'Neil v02: Here's Mud in Your Eye!",
+      "volume": "",
+      "last_updated": "1668114627",
+      "groups": {
+        "": ""
+      }
+    },
+    "22": {
+      "title": "Stern v01: Nothing Can Stop the Juggernaut",
+      "volume": "",
+      "last_updated": "1668114696",
+      "groups": {
+        "": ""
+      }
+    },
+    "23": {
+      "title": "Stern v02: The Kid Who Collects Spider-Man",
+      "volume": "",
+      "last_updated": "1668114764",
+      "groups": {
+        "": ""
+      }
+    },
+    "24": {
+      "title": "DeFalco v01: The Alien Costume Saga, Part 1",
+      "volume": "",
+      "last_updated": "1668114863",
+      "groups": {
+        "": ""
+      }
+    },
+    "25": {
+      "title": "DeFalco v02: The Alien Costume Saga, Part 2",
+      "volume": "",
+      "last_updated": "1668115019",
+      "groups": {
+        "": ""
+      }
+    },
+    "26": {
+      "title": "DeFalco v03: Ghosts of the Past",
+      "volume": "",
+      "last_updated": "1668115136",
+      "groups": {
+        "": ""
+      }
+    },
+    "27": {
+      "title": "DeFalco (Mostly) v04: Spider-Man vs. Silver Sable",
+      "volume": "",
+      "last_updated": "1668115291",
+      "groups": {
+        "": ""
+      }
+    },
+    "28": {
+      "title": "Owsley (Mostly): Gang War (282-288)",
+      "volume": "",
+      "last_updated": "1668115330",
+      "groups": {
+        "": ""
+      }
+    },
+    "29": {
+      "title": "Michelinie v01/DeMatteis: Kraven's Last Hunt",
+      "volume": "",
+      "last_updated": "1668115418",
+      "groups": {
+        "": ""
+      }
+    },
+    "30": {
+      "title": "Michelinie v02: Venom",
+      "volume": "",
+      "last_updated": "1668115531",
+      "groups": {
+        "": ""
+      }
+    },
+    "31": {
+      "title": "Michelinie v03: Assassin Nation",
+      "volume": "",
+      "last_updated": "1668115916",
+      "groups": {
+        "": ""
+      }
+    },
+    "32": {
+      "title": "Michelinie v04: Cosmic Adventures",
+      "volume": "",
+      "last_updated": "1668116006",
+      "groups": {
+        "": ""
+      }
+    },
+    "33": {
+      "title": "Michelinie v05: Return of the Sinister Six",
+      "volume": "",
+      "last_updated": "1668116072",
+      "groups": {
+        "": ""
+      }
+    },
+    "34": {
+      "title": "Michelinie v06: Round Robin",
+      "volume": "",
+      "last_updated": "1668116260",
+      "groups": {
+        "": ""
+      }
+    },
+    "35": {
+      "title": "Michelinie v07: The Hero Killers (361-367, Annual 26)",
+      "volume": "",
+      "last_updated": "1668116319",
+      "groups": {
+        "": ""
+      }
+    },
+    "36": {
+      "title": "Michelinie v08: Invasion of the Spider-Slayers",
+      "volume": "",
+      "last_updated": "1668116568",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "37": {
+      "title": "Michelinie v09: Maximum Carnage",
+      "volume": "",
+      "last_updated": "1668116648",
+      "groups": {
+        "": ""
+      }
+    },
+    "38": {
+      "title": "Michelinie v10/DeMatteis v01: Lifetheft",
+      "volume": "",
+      "last_updated": "1668116700",
+      "groups": {
+        "": ""
+      }
+    },
+    "39": {
+      "title": "DeMatteis v02: The Clone Saga, Part 1",
+      "volume": "",
+      "last_updated": "1668116772",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "40": {
+      "title": "DeMatteis v03: The Clone Saga, Part 2",
+      "volume": "",
+      "last_updated": "1668116825",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "41": {
+      "title": "DeMatteis v04: The Clone Saga, Part 3",
+      "volume": "",
+      "last_updated": "1668116881",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "42": {
+      "title": "DeMatteis v05: The Clone Saga, Part 4",
+      "volume": "",
+      "last_updated": "1668116895",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "43": {
+      "title": "DeMatteis v06: The Clone Saga, Part 5",
+      "volume": "",
+      "last_updated": "1668116919",
+      "groups": {
+        "": ""
+      }
+    },
+    "44": {
+      "title": "DeFalco (Again) v01: Ben Reilly, Part 1",
+      "volume": "",
+      "last_updated": "1668117005",
+      "groups": {
+        "": ""
+      }
+    },
+    "45": {
+      "title": "DeFalco (Again) v02: Ben Reilly, Part 2",
+      "volume": "",
+      "last_updated": "1668117043",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "46": {
+      "title": "DeFalco (Again) v03: Ben Reilly, Part 3",
+      "volume": "",
+      "last_updated": "1668117052",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "47": {
+      "title": "DeFalco (Again) v04: Ben Reilly, Part 4",
+      "volume": "",
+      "last_updated": "1668117075",
+      "groups": {
+        "": ""
+      }
+    },
+    "48": {
+      "title": "DeFalco (Again) v05: Ben Reilly, Part 5",
+      "volume": "",
+      "last_updated": "1668117087",
+      "groups": {
+        "": ""
+      }
+    },
+    "49": {
+      "title": "DeFalco (Again) v06: Ben Reilly, Part 6",
+      "volume": "",
+      "last_updated": "1668117097",
+      "groups": {
+        "": ""
+      }
+    },
+    "50": {
+      "title": "DeFalco (Again) v07: Only the Evil Return! (419-431)",
+      "volume": "",
+      "last_updated": "1668117291",
+      "groups": {
+        "": ""
+      }
+    },
+    "51": {
+      "title": "DeFalco (Again) v08: Spider-Hunt",
+      "volume": "",
+      "last_updated": "1668117398",
+      "groups": {
+        "": ""
+      }
+    },
+    "52": {
+      "title": "DeFalco (Again) v09: Identity Crisis",
+      "volume": "",
+      "last_updated": "1668117420",
+      "groups": {
+        "": ""
+      }
+    },
+    "53": {
+      "title": "DeFalco (Again) v10: There Once Was A Spider...! (436-439)",
+      "volume": "",
+      "last_updated": "1668117454",
+      "groups": {
+        "": ""
+      }
+    },
+    "54": {
+      "title": "Byrne: The Gathering of Five",
+      "volume": "",
+      "last_updated": "1668117554",
+      "groups": {
+        "": ""
+      }
+    },
+    "55": {
+      "title": "Mackie v01: The Next Chapter, Part 1",
+      "volume": "",
+      "last_updated": "1668117693",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "3.5": {
+      "title": "Untold Tales of Spider-Man",
+      "volume": "",
+      "last_updated": "1668113104",
+      "groups": {
+        "": ""
+      }
+    },
+    "30.5": {
+      "title": "(Spectacular) The Death of Jean DeWolff",
+      "volume": "",
+      "last_updated": "1668115563",
+      "groups": {
+        "": ""
+      }
+    },
+    "30.6": {
+      "title": "(Spectacular) Tombstone",
+      "volume": "",
+      "last_updated": "1668115900",
+      "groups": {
+        "": ""
+      }
+    },
+    "33.5": {
+      "title": "Spider-Man by Todd McFarlene",
+      "volume": "",
+      "last_updated": "1668116138",
+      "groups": {
+        "": ""
+      }
+    },
+    "33.6": {
+      "title": "(Spider-Man) Larsen: Revenge of the Sinister Six",
+      "volume": "",
+      "last_updated": "1668116156",
+      "groups": {
+        "": ""
+      }
+    }
+  }
 }
