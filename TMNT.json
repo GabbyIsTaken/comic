@@ -1,0 +1,405 @@
+{
+  "title": "TMNT",
+  "description": "It's a different world for the Turtles. The group is broken as Raphael wanders the streets of NYC in search of food and shelter. His brothers and Master Splinter are on the search, but so far all they can find is trouble — in the form of mutant alley cat Old Hob and his gang of criminals! The very core of the Turtles family is at stake as the new origin of TMNT is revealed!",
+  "artist": "Various",
+  "author": "Various",
+  "cover": "https://2.bp.blogspot.com/MHF_oKm3kKwwn0oxqyYn3clWBK0LpGcpr6P35WdjZaDdKogbrzDKC3dwLwghw2kTGyn3zpepPdj1sBWLjzTglbTCdXAXx0qinpuTHKn_P5ABPrAuaU4J9QnHwmmPU0BID8C7FzwCqg=s0?rhlupa=MjYwMTo1ODM6ODIwMDo3MmQwOjpmMjFl&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2",
+  "chapters": {
+    "1": {
+      "title": "Change is Constant",
+      "volume": "",
+      "last_updated": "1668662152",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "Enemies Old, Enemies New",
+      "volume": "",
+      "last_updated": "1668662165",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "Shadows of the Past",
+      "volume": "",
+      "last_updated": "1668662177",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "Sins of the Fathers",
+      "volume": "",
+      "last_updated": "1668662187",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "Krang War",
+      "volume": "",
+      "last_updated": "1668662199",
+      "groups": {
+        "": ""
+      }
+    },
+    "6": {
+      "title": "City Fall, Part 1",
+      "volume": "",
+      "last_updated": "1668662206",
+      "groups": {
+        "": ""
+      }
+    },
+    "7": {
+      "title": "City Fall, Part 2",
+      "volume": "",
+      "last_updated": "1668662215",
+      "groups": {
+        "": ""
+      }
+    },
+    "8": {
+      "title": "Northampton",
+      "volume": "",
+      "last_updated": "1668662228",
+      "groups": {
+        "": ""
+      }
+    },
+    "9": {
+      "title": "Monsters, Misfits, and Madmen",
+      "volume": "",
+      "last_updated": "1668662243",
+      "groups": {
+        "": ""
+      }
+    },
+    "10": {
+      "title": "New Mutant Order",
+      "volume": "",
+      "last_updated": "1668662257",
+      "groups": {
+        "": ""
+      }
+    },
+    "11": {
+      "title": "Attack on Technodrome",
+      "volume": "",
+      "last_updated": "1668662270",
+      "groups": {
+        "": ""
+      }
+    },
+    "12": {
+      "title": "Vengence, Part 1",
+      "volume": "",
+      "last_updated": "1668662279",
+      "groups": {
+        "": ""
+      }
+    },
+    "13": {
+      "title": "Vengence, Part 2",
+      "volume": "",
+      "last_updated": "1668662300",
+      "groups": {
+        "": ""
+      }
+    },
+    "14": {
+      "title": "Order from Chaos",
+      "volume": "",
+      "last_updated": "1668662310",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "15": {
+      "title": "Leatherhead",
+      "volume": "",
+      "last_updated": "1668662319",
+      "groups": {
+        "": ""
+      }
+    },
+    "16": {
+      "title": "Chasing Phantoms",
+      "volume": "",
+      "last_updated": "1668662327",
+      "groups": {
+        "": ""
+      }
+    },
+    "17": {
+      "title": "Desperate Measures",
+      "volume": "",
+      "last_updated": "1668662339",
+      "groups": {
+        "": ""
+      }
+    },
+    "18": {
+      "title": "Trial of Krang",
+      "volume": "",
+      "last_updated": "1668662351",
+      "groups": {
+        "": ""
+      }
+    },
+    "19": {
+      "title": "Invasion of the Triceratons",
+      "volume": "",
+      "last_updated": "1668662375",
+      "groups": {
+        "": ""
+      }
+    },
+    "20": {
+      "title": "Kingdom of Rats",
+      "volume": "",
+      "last_updated": "1668662385",
+      "groups": {
+        "": ""
+      }
+    },
+    "21": {
+      "title": "Battle Lines",
+      "volume": "",
+      "last_updated": "1668662400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "22": {
+      "title": "City at War, Part 1",
+      "volume": "",
+      "last_updated": "1668662431",
+      "groups": {
+        "": ""
+      }
+    },
+    "23": {
+      "title": "City at War, Part 2",
+      "volume": "",
+      "last_updated": "1668662444",
+      "groups": {
+        "": ""
+      }
+    },
+    "24": {
+      "title": "From the Ashes",
+      "volume": "",
+      "last_updated": "1668662454",
+      "groups": {
+        "": ""
+      }
+    },
+    "25": {
+      "title": "Life After Death",
+      "volume": "",
+      "last_updated": "1668662462",
+      "groups": {
+        "": ""
+      }
+    },
+    "26": {
+      "title": "Time After Time",
+      "volume": "",
+      "last_updated": "1668662488",
+      "groups": {
+        "": ""
+      }
+    },
+    "27": {
+      "title": "Sow Wind, Reap Storm",
+      "volume": "",
+      "last_updated": "1668662501",
+      "groups": {
+        "": ""
+      }
+    },
+    "28": {
+      "title": "Mystic Sister",
+      "volume": "",
+      "last_updated": "1668662512",
+      "groups": {
+        "": ""
+      }
+    },
+    "1.5": {
+      "title": "Micro-Series, Vol. 1",
+      "volume": "",
+      "last_updated": "1668662533",
+      "groups": {
+        "": ""
+      }
+    },
+    "3.5": {
+      "title": "Micro-Series, Vol. 2",
+      "volume": "",
+      "last_updated": "1668662549",
+      "groups": {
+        "": ""
+      }
+    },
+    "5.5": {
+      "title": "Secret History of the Foot Clan",
+      "volume": "",
+      "last_updated": "1668662560",
+      "groups": {
+        "": ""
+      }
+    },
+    "6.5": {
+      "title": "Villain Micro-Series, Vol. 1",
+      "volume": "",
+      "last_updated": "1668662572",
+      "groups": {
+        "": ""
+      }
+    },
+    "7.5": {
+      "title": "Villain Micro-Series, Vol. 2",
+      "volume": "",
+      "last_updated": "1668662585",
+      "groups": {
+        "": ""
+      }
+    },
+    "8.5": {
+      "title": "Utrom Empire",
+      "volume": "",
+      "last_updated": "1668662803",
+      "groups": {
+        "": ""
+      }
+    },
+    "9.5": {
+      "title": "Turtles in Time",
+      "volume": "",
+      "last_updated": "1668662810",
+      "groups": {
+        "": ""
+      }
+    },
+    "11.5": {
+      "title": "Mutanimals",
+      "volume": "",
+      "last_updated": "1668662822",
+      "groups": {
+        "": ""
+      }
+    },
+    "12.5": {
+      "title": "Casey and April",
+      "volume": "",
+      "last_updated": "1668662834",
+      "groups": {
+        "": ""
+      }
+    },
+    "16.5": {
+      "title": "Bebop & Rocksteady Destroy Everything",
+      "volume": "",
+      "last_updated": "1668662852",
+      "groups": {
+        "": ""
+      }
+    },
+    "16.6": {
+      "title": "TMNT Universe, Vol. 1",
+      "volume": "",
+      "last_updated": "1668662875",
+      "groups": {
+        "": ""
+      }
+    },
+    "17.5": {
+      "title": "(Universe, Vol. 2) The New Strangeness",
+      "volume": "",
+      "last_updated": "1668662903",
+      "groups": {
+        "": ""
+      }
+    },
+    "18.5": {
+      "title": "Dimension X",
+      "volume": "",
+      "last_updated": "1668662932",
+      "groups": {
+        "": ""
+      }
+    },
+    "18.6": {
+      "title": "(Universe, Vol. 3) Karai's Path",
+      "volume": "",
+      "last_updated": "1668662952",
+      "groups": {
+        "": ""
+      }
+    },
+    "19.5": {
+      "title": "(Universe, Vol. 4) Home",
+      "volume": "",
+      "last_updated": "1668662983",
+      "groups": {
+        "": ""
+      }
+    },
+    "20.5": {
+      "title": "(Universe, Vol. 5) The Coming Doom",
+      "volume": "",
+      "last_updated": "1668662996",
+      "groups": {
+        "": ""
+      }
+    },
+    "20.6": {
+      "title": "Bebop & Rocksteady Hit the Road",
+      "volume": "",
+      "last_updated": "1668663013",
+      "groups": {
+        "": ""
+      }
+    },
+    "21.5": {
+      "title": "Macro-Series",
+      "volume": "",
+      "last_updated": "1668663030",
+      "groups": {
+        "": ""
+      }
+    },
+    "22.5": {
+      "title": "Shredder in Hell",
+      "volume": "",
+      "last_updated": "1668663044",
+      "groups": {
+        "": ""
+      }
+    },
+    "24.5": {
+      "title": "Jennika",
+      "volume": "",
+      "last_updated": "1668663072",
+      "groups": {
+        "": ""
+      }
+    },
+    "25.5": {
+      "title": "Jennika II",
+      "volume": "",
+      "last_updated": "1668663087",
+      "groups": {
+        "": ""
+      }
+    }
+  }
+}
