@@ -13,18 +13,104 @@
         "": ""
       }
     },
+    "7": {
+      "title": "The Rising, Part 1",
+      "volume": "",
+      "last_updated": "1668667287",
+      "groups": {
+        "": ""
+      }
+    },
+    "8": {
+      "title": "The Rising, Part 2",
+      "volume": "",
+      "last_updated": "1668667351",
+      "groups": {
+        "": ""
+      }
+    },
+    "9": {
+      "title": "World's Finest Sons, Part 2",
+      "volume": "",
+      "last_updated": "1668667359",
+      "groups": {
+        "": ""
+      }
+    },
+    "10": {
+      "title": "Reputation",
+      "volume": "",
+      "last_updated": "1668667411",
+      "groups": {
+        "": ""
+      }
+    },
+    "11": {
+      "title": "The Right Path",
+      "volume": "",
+      "last_updated": "1668667419",
+      "groups": {
+        "": ""
+      }
+    },
+    "12": {
+      "title": "Insiders",
+      "volume": "",
+      "last_updated": "1668667517",
+      "groups": {
+        "": ""
+      }
+    },
+    "13": {
+      "title": "Dreams and Nightmares",
+      "volume": "",
+      "last_updated": "1668667582",
+      "groups": {
+        "": ""
+      }
+    },
+    "14": {
+      "title": "Siege of Gamorra, Part 1",
+      "volume": "",
+      "last_updated": "1668667608",
+      "groups": {
+        "": ""
+      }
+    },
+    "15": {
+      "title": "Siege of Gamorra, Finale",
+      "volume": "",
+      "last_updated": "1668667667",
+      "groups": {
+        "": ""
+      }
+    },
+    "16": {
+      "title": "Kal-El Returns, Part 2: Reunion",
+      "volume": "",
+      "last_updated": "1668667716",
+      "groups": {
+        "": ""
+      }
+    },
+    "17": {
+      "title": "Kal-El Returns, Part 4: Unguarded",
+      "volume": "",
+      "last_updated": "1668667874",
+      "groups": {
+        "": ""
+      }
+    },
     "8.5": {
-      "title": "(Nightwing 2016 #89) ",
+      "title": "World's Finest Sons, Part 1 (Nightwing 2016 #89) ",
       "volume": "",
       "last_updated": "1668659891",
       "groups": {
-        "": [
-          ""
-        ]
+        "": ""
       }
     },
     "15.5": {
-      "title": "(Action Comics #1047) ",
+      "title": "Kal-El Returns, Chapter 1: Double Sun (Action Comics #1047)",
       "volume": "",
       "last_updated": "1668659982",
       "groups": {
@@ -32,23 +118,19 @@
       }
     },
     "16.5": {
-      "title": "(Action Comics #1048) ",
+      "title": "Kal-El Returns, Chapter 3: Olgrun's Lair (Action Comics #1048)",
       "volume": "",
       "last_updated": "1668659997",
       "groups": {
-        "": [
-          ""
-        ]
+        "": ""
       }
     },
     "6.5": {
-      "title": "(Annual #1) ",
+      "title": "Homecoming (2021 Annual)",
       "volume": "",
       "last_updated": "1668660069",
       "groups": {
-        "": [
-          ""
-        ]
+        "": ""
       }
     }
   }
