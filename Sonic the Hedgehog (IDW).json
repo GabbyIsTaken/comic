@@ -1,6 +1,6 @@
 {
   "title": "Sonic the Hedgehog (IDW)",
-  "description": "(Takes place after Sonic Forces)\nIn the aftermath of his latest battle with Dr. Eggman, rogue robots are on the loose and new foes are on the rise. But where is the evil doctor and what secrets will Sonic discover during his search? One thing’s for sure: he’ll need plenty of help from Tails, Knuckles, Amy, and new allies Tangle the Lemur and Whisper the Wolf. Plus, he’ll have to deal with a little competition—from his old rival Shadow the Hedgehog! It’s an epic storyline Sonic fans can’t miss, so don’t get left in the dust.",
+  "description": "(Takes place after Sonic Forces)\nIn the aftermath of his latest battle with Dr. Eggman, rogue robots are on the loose and new foes are on the rise. But where is the evil doctor and what secrets will Sonic discover during his search? One thing’s for sure: he’ll need plenty of help from Tails, Knuckles, Amy, and new allies Tangle the Lemur and Whisper the Wolf. Plus, he’ll have to deal with a little competition—from his old rival Shadow the Hedgehog! It’s an epic storyline Sonic fans can’t miss, so don’t get left in the dust.\n\nScrapnik Island hasn't been placed in the timeline yet so its got the good ol' big-fuckin-number\nBoth 30th anniversary comics focus on the Classic versions of the characters (Sonic 1-3 + Mania) and also have a big-fuckin-number",
   "artist": "Various",
   "author": "Ian Flynn, Evan Stanley",
   "cover": "https://2.bp.blogspot.com/8eSnsVascaG53fk5lQFmmXFa8le8ljBIXNCAJPDRKlNPGJUHOwrK3JweVcSB5CDmVniR8TB9g0ZqJEDwQEqU3zp5a0UnLQs0WNpTejr-1YyOXSUPgFkvbYFr4zB_VWtTNH_BWrViiw=s0?rhlupa=MjYwMTo1ODM6ODIwMDo3MmQwOjpmMjFl&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNi4wLjAuMCBTYWZhcmkvNTM3LjM2",
@@ -133,14 +133,6 @@
         "": "/proxy/api/imgur/chapter/M9YSKWw"
       }
     },
-    "999": {
-      "title": "Scrapnik Island, Part 1",
-      "volume": "",
-      "last_updated": "1666510266",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/KwlWbNt"
-      }
-    },
     "4.5": {
       "title": "Tangle and Whisper",
       "volume": "",
@@ -163,6 +155,38 @@
       "last_updated": "1666554290",
       "groups": {
         "": "/proxy/api/imgur/chapter/8pcccjC"
+      }
+    },
+    "500.1": {
+      "title": "Scrapnik Island, Part 1",
+      "volume": "",
+      "last_updated": "1668745170",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KwlWbNt"
+      }
+    },
+    "500.2": {
+      "title": "Scrapnik Island, Part 2",
+      "volume": "",
+      "last_updated": "1668745192",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uTikPWh"
+      }
+    },
+    "999.1": {
+      "title": "30th Anniversary Special",
+      "volume": "",
+      "last_updated": "1668745657",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GqHY0WW"
+      }
+    },
+    "999.2": {
+      "title": "Tails' 30th Anniversary Special",
+      "volume": "",
+      "last_updated": "1668746157",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/USBmWVh"
       }
     }
   }
