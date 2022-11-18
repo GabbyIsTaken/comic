@@ -1,6 +1,6 @@
 {
   "title": "Nightwing (Tom Taylor)",
-  "description": "Nightwing is back—and his drive to keep Blüdhaven safe has never been stronger! But his adoptive city has elected a new mayor with the last name Zucco. When Nightwing enlists Batgirl’s help in investigating the politician bearing the same name as the man who murdered his parents, she unearths details that will shock and fundamentally change the hero. Dick Grayson’s big heart has protected those persecuted by bullies in his youth, combated evil alongside Batman as Robin, and pledged his newly inherited wealth to enriching Blüdhaven as Nightwing. His kindness and generosity have always guided his life. But now a new villain stalks the back alleys, removing the hearts of the city’s most vulnerable. Who is this terrifying new menace named Heartless, and will he be able to resist plucking out the biggest heart in all of Blüdhaven?",
+  "description": "Nightwing is back—and his drive to keep Blüdhaven safe has never been stronger! But his adoptive city has elected a new mayor with the last name Zucco. When Nightwing enlists Batgirl’s help in investigating the politician bearing the same name as the man who murdered his parents, she unearths details that will shock and fundamentally change the hero. Dick Grayson’s big heart has protected those persecuted by bullies in his youth, combated evil alongside Batman as Robin, and pledged his newly inherited wealth to enriching Blüdhaven as Nightwing. His kindness and generosity have always guided his life. But now a new villain stalks the back alleys, removing the hearts of the city’s most vulnerable. Who is this terrifying new menace named Heartless, and will he be able to resist plucking out the biggest heart in all of Blüdhaven?\n\nI had to compress my stitched together version of #87 to under 20mb from like 150 and imgur compressed it to 1.5 so it looks like shit, heres the png:\nhttps://www.mediafire.com/view/zlhg800ely00lo6/Nightwing_087-015.png/file (if it doesn't load just download it)",
   "artist": "Bruno Dedondo",
   "author": "Tom Taylor",
   "cover": "https://readcomicsonline.ru/uploads/manga/nightwing-2016/chapters/78/01.jpg",
@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1668799530",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/Y0rnZTd"
       }
     },
     "84": {
@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1668799683",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/h9fc57v"
       }
     },
     "85": {
@@ -26,7 +26,7 @@
       "volume": "",
       "last_updated": "1668799822",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/9tXzakH"
       }
     },
     "86": {
@@ -34,7 +34,7 @@
       "volume": "",
       "last_updated": "1668799830",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/BEcN6ir"
       }
     },
     "87": {
@@ -43,6 +43,110 @@
       "last_updated": "1668799842",
       "groups": {
         "": "/proxy/api/imgur/chapter/EDfx3J3"
+      }
+    },
+    "88": {
+      "title": "Get Grayson, Act Two",
+      "volume": "",
+      "last_updated": "1668802121",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MKS9oYI"
+      }
+    },
+    "89": {
+      "title": "World's Finest Sons, Part 1",
+      "volume": "",
+      "last_updated": "1668802502",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fNKOyC0"
+      }
+    },
+    "90": {
+      "title": "Get Grayson, Act Three",
+      "volume": "",
+      "last_updated": "1668802253",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/de7mCbY"
+      }
+    },
+    "91": {
+      "title": "The Sommelier of Death",
+      "volume": "",
+      "last_updated": "1668802425",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rqQDPd8"
+      }
+    },
+    "92": {
+      "title": "The Battle For Blüdhaven's Heart",
+      "volume": "",
+      "last_updated": "1668802523",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JqdG10A"
+      }
+    },
+    "93": {
+      "title": "The Battle For Blüdhaven's Heart, Part 2",
+      "volume": "",
+      "last_updated": "1668802616",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/G8ZcDuE"
+      }
+    },
+    "94": {
+      "title": "The Battle For Blüdhaven's Heart, Part 3",
+      "volume": "",
+      "last_updated": "1668802667",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ud8Gu5z"
+      }
+    },
+    "95": {
+      "title": "The Battle For Blüdhaven's Heart, Part 4",
+      "volume": "",
+      "last_updated": "1668802724",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uFB0Rwo"
+      }
+    },
+    "96": {
+      "title": "The Battle For Blüdhaven's Heart, Finale",
+      "volume": "",
+      "last_updated": "1668802762",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rIyp1wp"
+      }
+    },
+    "97": {
+      "title": "Power Vacuum, Part 1",
+      "volume": "",
+      "last_updated": "1668802795",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dRsb0HU"
+      }
+    },
+    "98": {
+      "title": "A Nite to Remember",
+      "volume": "",
+      "last_updated": "1668802835",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6dhxfZu"
+      }
+    },
+    "86.5": {
+      "title": "Blood Brothers (2021 Annual)",
+      "volume": "",
+      "last_updated": "1668803076",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jsGaJDX"
+      }
+    },
+    "89.5": {
+      "title": "World's Finest Sons, Part 2 (Son of Kal-El #9)",
+      "volume": "",
+      "last_updated": "1668803131",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FNjn0zr"
       }
     }
   }
