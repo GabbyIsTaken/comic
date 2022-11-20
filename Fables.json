@@ -1,0 +1,337 @@
+{
+  "title": "Fables",
+  "description": "A story that puts to ease your question, \"What if all those fairytale creatures I heard of as a child were real and living in New York City?\"",
+  "artist": "Various",
+  "author": "Bill Willingham",
+  "cover": "https://2.bp.blogspot.com/MA7wXP6e5N3dDoCOuilI15evyFl3LsixHgl3dId0U17cNFOFjX3Gdc-7FVT5th_33IXVYs_RTrvi=s0?rhlupa=MjYwMTo1ODM6ODIwMDo3MmQwOmI1NzY6NGY1ZDoxYjIwOjliODg=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2",
+  "chapters": {
+    "1": {
+      "title": "Legends in Exile",
+      "volume": "",
+      "last_updated": "1668979306",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "Animal Farm",
+      "volume": "",
+      "last_updated": "1668979323",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "Storybook Love",
+      "volume": "",
+      "last_updated": "1668979330",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "March of the Wooden Soldiers",
+      "volume": "",
+      "last_updated": "1668979343",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "The Mean Seasons",
+      "volume": "",
+      "last_updated": "1668979634",
+      "groups": {
+        "": ""
+      }
+    },
+    "6": {
+      "title": "Homelands",
+      "volume": "",
+      "last_updated": "1668979641",
+      "groups": {
+        "": ""
+      }
+    },
+    "7": {
+      "title": "Arabian Nights (and Days)",
+      "volume": "",
+      "last_updated": "1668979752",
+      "groups": {
+        "": ""
+      }
+    },
+    "8": {
+      "title": "Wolves",
+      "volume": "",
+      "last_updated": "1668979765",
+      "groups": {
+        "": ""
+      }
+    },
+    "9": {
+      "title": "Sons of Empire",
+      "volume": "",
+      "last_updated": "1668979776",
+      "groups": {
+        "": ""
+      }
+    },
+    "10": {
+      "title": "The Good Prince",
+      "volume": "",
+      "last_updated": "1668979788",
+      "groups": {
+        "": ""
+      }
+    },
+    "11": {
+      "title": "War and Pieces",
+      "volume": "",
+      "last_updated": "1668979797",
+      "groups": {
+        "": ""
+      }
+    },
+    "12": {
+      "title": "The Dark Ages",
+      "volume": "",
+      "last_updated": "1668979810",
+      "groups": {
+        "": ""
+      }
+    },
+    "13": {
+      "title": "The Great Fables Crossover",
+      "volume": "",
+      "last_updated": "1668979942",
+      "groups": {
+        "": ""
+      }
+    },
+    "14": {
+      "title": "Witches",
+      "volume": "",
+      "last_updated": "1668979996",
+      "groups": {
+        "": ""
+      }
+    },
+    "15": {
+      "title": "Rose Red",
+      "volume": "",
+      "last_updated": "1668980006",
+      "groups": {
+        "": ""
+      }
+    },
+    "16": {
+      "title": "Super Team",
+      "volume": "",
+      "last_updated": "1668980109",
+      "groups": {
+        "": ""
+      }
+    },
+    "17": {
+      "title": "Inherit the Wind",
+      "volume": "",
+      "last_updated": "1668980167",
+      "groups": {
+        "": ""
+      }
+    },
+    "18": {
+      "title": "Cubs in Toyland",
+      "volume": "",
+      "last_updated": "1668980180",
+      "groups": {
+        "": ""
+      }
+    },
+    "19": {
+      "title": "Snow White",
+      "volume": "",
+      "last_updated": "1668980190",
+      "groups": {
+        "": ""
+      }
+    },
+    "20": {
+      "title": "Camelot",
+      "volume": "",
+      "last_updated": "1668980209",
+      "groups": {
+        "": ""
+      }
+    },
+    "21": {
+      "title": "Happily Ever After",
+      "volume": "",
+      "last_updated": "1668980317",
+      "groups": {
+        "": ""
+      }
+    },
+    "22": {
+      "title": "Farewell",
+      "volume": "",
+      "last_updated": "1668980393",
+      "groups": {
+        "": ""
+      }
+    },
+    "6.5": {
+      "title": "(Jack of Fables, Vol. 1) The (Nearly) Great Escape",
+      "volume": "",
+      "last_updated": "1668979651",
+      "groups": {
+        "": ""
+      }
+    },
+    "6.6": {
+      "title": "(Jack, Vol. 2) Jack of Hearts",
+      "volume": "",
+      "last_updated": "1668979678",
+      "groups": {
+        "": ""
+      }
+    },
+    "6.7": {
+      "title": "(Jack, Vol. 3) The Bad Prince",
+      "volume": "",
+      "last_updated": "1668979702",
+      "groups": {
+        "": ""
+      }
+    },
+    "6.8": {
+      "title": "1001 Nights of Snowfall",
+      "volume": "",
+      "last_updated": "1668979725",
+      "groups": {
+        "": ""
+      }
+    },
+    "11.5": {
+      "title": "Cinderella: From Fabletown With Love",
+      "volume": "",
+      "last_updated": "1668979851",
+      "groups": {
+        "": ""
+      }
+    },
+    "11.6": {
+      "title": "(Jack, Vol. 4) Americana",
+      "volume": "",
+      "last_updated": "1668979868",
+      "groups": {
+        "": ""
+      }
+    },
+    "11.7": {
+      "title": "(Jack, Vol. 5) Turning Pages",
+      "volume": "",
+      "last_updated": "1668979887",
+      "groups": {
+        "": ""
+      }
+    },
+    "11.8": {
+      "title": "(Jack, Vol. 6) The Big Book of War",
+      "volume": "",
+      "last_updated": "1668979906",
+      "groups": {
+        "": ""
+      }
+    },
+    "13.5": {
+      "title": "(Jack, Vol. 7) The New Adventures of Jack and Jack",
+      "volume": "",
+      "last_updated": "1668979961",
+      "groups": {
+        "": ""
+      }
+    },
+    "13.6": {
+      "title": "(Jack, Vol. 8) The Fulminate Blade",
+      "volume": "",
+      "last_updated": "1668979973",
+      "groups": {
+        "": ""
+      }
+    },
+    "15.5": {
+      "title": "Cinderella: Fables are Forever",
+      "volume": "",
+      "last_updated": "1668980054",
+      "groups": {
+        "": ""
+      }
+    },
+    "15.6": {
+      "title": "(Fairest, Vol. 2) Hidden Kingdom",
+      "volume": "",
+      "last_updated": "1668980071",
+      "groups": {
+        "": ""
+      }
+    },
+    "15.7": {
+      "title": "Werewolves of the Heartland",
+      "volume": "",
+      "last_updated": "1668980093",
+      "groups": {
+        "": ""
+      }
+    },
+    "16.5": {
+      "title": "(Fairest, Vol. 1) Wide Awake",
+      "volume": "",
+      "last_updated": "1668980126",
+      "groups": {
+        "": ""
+      }
+    },
+    "16.6": {
+      "title": "(Fairest, Vol. 3) The Return of the Maharaja",
+      "volume": "",
+      "last_updated": "1668980142",
+      "groups": {
+        "": ""
+      }
+    },
+    "20.5": {
+      "title": "Fairest in All the Land",
+      "volume": "",
+      "last_updated": "1668980236",
+      "groups": {
+        "": ""
+      }
+    },
+    "20.6": {
+      "title": "(Jack, Vol. 9) The End",
+      "volume": "",
+      "last_updated": "1668980270",
+      "groups": {
+        "": ""
+      }
+    },
+    "20.7": {
+      "title": "(Fairest, Vol. 4) Cinderella: Of Men and Mice",
+      "volume": "",
+      "last_updated": "1668980293",
+      "groups": {
+        "": ""
+      }
+    },
+    "21.5": {
+      "title": "(Fairest, Vol. 5) The Clamour for Glamour",
+      "volume": "",
+      "last_updated": "1668980344",
+      "groups": {
+        "": ""
+      }
+    }
+  }
+}
