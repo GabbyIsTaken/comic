@@ -1,0 +1,49 @@
+{
+  "title": "Gotham Academy",
+  "description": "Welcome to Gotham Academy, the most prestigious school in Gotham City. Only the best and brightest students may enter its halls, study in its classrooms, explore its secret passages, summon its terrifying spirits…\n\nOkay, so Gotham Academy isn’t like other schools. But Olive Silverlock isn’t like other students. After a mysterious incident over summer break, she’s back at school with a bad case of amnesia, an even worse attitude… and an unexplained fear of bats.\n\nOlive’s supposed to show new student Maps Mizoguchi the ropes. Problem: Maps is kid sister of Kyle, Olive’s ex. Then there’s the ghost haunting the campus…the secret society conducting bizarre rituals…and Bruce Wayne, the weirdo billionaire who funds the Academy – and may know the secret to Olive’s big mystery.",
+  "artist": "Karl Kerschl, Adam Archer",
+  "author": "Becky Cloonan, Brendan Fletcher",
+  "cover": "https://cdn11.bigcommerce.com/s-igquupw3/images/stencil/1280x1280/products/626553/30546311/9781401264789__37560.1637555136.jpg?c=2",
+  "chapters": {
+    "1": {
+      "title": "Welcome to Gotham Academy",
+      "volume": "",
+      "last_updated": "1669064945",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "Calamity",
+      "volume": "",
+      "last_updated": "1669065010",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "Yearbook",
+      "volume": "",
+      "last_updated": "1669065016",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "Welcome Back",
+      "volume": "",
+      "last_updated": "1669065035",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "The Ballad of Olive Silverlock",
+      "volume": "",
+      "last_updated": "1669065042",
+      "groups": {
+        "": ""
+      }
+    }
+  }
+}
