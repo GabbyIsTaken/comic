@@ -6,7 +6,7 @@
   "cover": "https://readcomicsonline.ru/uploads/manga/detective-comics-2016/chapters/1062/01.jpg",
   "chapters": {
     "1062": {
-      "title": "Gotham Nocturne: Overture, Part 1; The Coda, Part 1",
+      "title": "Overture, Part 1; The Coda, Part 1",
       "volume": "",
       "last_updated": "1668659452",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "1063": {
-      "title": "Gotham Nocturne: Overture, Part 2; The Coda, Part 2",
+      "title": "Overture, Part 2; The Coda, Part 2",
       "volume": "",
       "last_updated": "1668659669",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "1064": {
-      "title": "Gotham Nocturne: Overture, Part 3; The Coda, Part 3",
+      "title": "Overture, Part 3; The Coda, Part 3",
       "volume": "",
       "last_updated": "1668659677",
       "groups": {
@@ -30,11 +30,19 @@
       }
     },
     "1065": {
-      "title": "Gotham Nocturne: Overture, Part 4; A Tale of Three Halves, Part 1",
+      "title": "Overture, Part 4; A Tale of Three Halves, Part 1",
       "volume": "",
       "last_updated": "1668659686",
       "groups": {
         "": "/proxy/api/imgur/chapter/rYeRwG1"
+      }
+    },
+    "1066": {
+      "title": "Something In the Way, Part 1; A Tale of Three Halves, Part 2",
+      "volume": "",
+      "last_updated": "1669149008",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ek4w7YD"
       }
     }
   }
