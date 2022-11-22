@@ -1,0 +1,41 @@
+{
+  "title": "Alias",
+  "description": "Meet Jessica Jones. Once upon a time, she was a costumed super hero. But not a very good one. Her powers were unremarkable compared to the amazing abilities of the costumed icons that populate the Marvel Universe. In a city of Marvels, Jessica Jones never found her niche. Now a chain-smoking, self-destructive alcoholic with a mean inferiority complex, Jones is the owner and sole employee of Alias Investigations—a small, private-investigative firm specializing in superhuman cases. When she uncovers the potentially explosive secret of one hero’s true identity, Jessica’s life immediately becomes expendable. But her wit, charm and intelligence just may help her survive through another day. Thrust into the midst of a conspiracy that reaches the highest levels, has Jessica burned too many bridges to turn to old friends for help?",
+  "artist": "Michael Gavoos",
+  "author": "Brian Michael Bendis",
+  "cover": "https://m.media-amazon.com/images/I/71LNCOn+tCL.jpg",
+  "chapters": {
+    "1": {
+      "title": "Alias Investigations",
+      "volume": "",
+      "last_updated": "1669102803",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "Come Home",
+      "volume": "",
+      "last_updated": "1669102809",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "The Underneath",
+      "volume": "",
+      "last_updated": "1669102819",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "The Secret Origins of Jessica Jones",
+      "volume": "",
+      "last_updated": "1669102864",
+      "groups": {
+        "": ""
+      }
+    }
+  }
+}
