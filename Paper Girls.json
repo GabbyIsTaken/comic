@@ -2,7 +2,56 @@
   "title": "Paper Girls",
   "description": "Four twelve-year-old newspaper delivery girls from the year 1988 uncover the most important story of all time. Suburban drama and otherworldly mysteries collide in this critically acclaimed series about nostalgia, first jobs, and the last days of childhood.",
   "artist": "Cliff Chiang",
-  "author": "Brain K. Vaughan",
+  "author": "Brian K. Vaughan",
   "cover": "https://2.bp.blogspot.com/-dnatxdsCydk/Vnj1P7XzhLI/AAAAAAAAKMk/bK-fXfONsu4/s0-Ic42/RCO001.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Volume 1",
+      "volume": "",
+      "last_updated": "1669101848",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "Volume 2",
+      "volume": "",
+      "last_updated": "1669101860",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "Volume 3",
+      "volume": "",
+      "last_updated": "1669101874",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "Volume 4",
+      "volume": "",
+      "last_updated": "1669101880",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "Volume 5",
+      "volume": "",
+      "last_updated": "1669101886",
+      "groups": {
+        "": ""
+      }
+    },
+    "6": {
+      "title": "Volume 6",
+      "volume": "",
+      "last_updated": "1669101891",
+      "groups": {
+        "": ""
+      }
+    }
+  }
 }
