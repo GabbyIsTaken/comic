@@ -1,0 +1,89 @@
+{
+  "title": "East of West",
+  "description": "This is the world. It is not the one we wanted, but it is the one we deserved. The Four Horsemen of the Apocalypse roam the Earth, signaling the End Times for humanity, and our best hope for life, lies in DEATH!",
+  "artist": "Nick Dragotta",
+  "author": "Jonathan Hickman",
+  "cover": "https://m.media-amazon.com/images/I/711oBEkdY6L.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Promise",
+      "volume": "",
+      "last_updated": "1669105923",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "We Are All One",
+      "volume": "",
+      "last_updated": "1669105943",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "There Is No Us",
+      "volume": "",
+      "last_updated": "1669105959",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "Who Wants War?",
+      "volume": "",
+      "last_updated": "1669105984",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "All These Secrets",
+      "volume": "",
+      "last_updated": "1669105993",
+      "groups": {
+        "": ""
+      }
+    },
+    "6": {
+      "title": "Volume 6",
+      "volume": "",
+      "last_updated": "1669106185",
+      "groups": {
+        "": ""
+      }
+    },
+    "7": {
+      "title": "Volume 7",
+      "volume": "",
+      "last_updated": "1669106196",
+      "groups": {
+        "": ""
+      }
+    },
+    "8": {
+      "title": "Volume 8",
+      "volume": "",
+      "last_updated": "1669106205",
+      "groups": {
+        "": ""
+      }
+    },
+    "9": {
+      "title": "Volume 9",
+      "volume": "",
+      "last_updated": "1669106211",
+      "groups": {
+        "": ""
+      }
+    },
+    "10": {
+      "title": "Volume 10",
+      "volume": "",
+      "last_updated": "1669106217",
+      "groups": {
+        "": ""
+      }
+    }
+  }
+}
