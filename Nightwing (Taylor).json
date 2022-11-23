@@ -13,14 +13,6 @@
         "": "/proxy/api/imgur/chapter/Y0rnZTd"
       }
     },
-    "2": {
-      "title": "Fear State",
-      "volume": "",
-      "last_updated": "1668974052",
-      "groups": {
-        "": ""
-      }
-    },
     "87": {
       "title": "Get Grayson",
       "volume": "",
@@ -123,6 +115,14 @@
       "last_updated": "1668803131",
       "groups": {
         "": "/proxy/api/imgur/chapter/FNjn0zr"
+      }
+    },
+    "1.5": {
+      "title": "Fear State",
+      "volume": "",
+      "last_updated": "1669229507",
+      "groups": {
+        "": ""
       }
     }
   }
