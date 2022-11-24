@@ -6,11 +6,19 @@
   "cover": "https://readcomicsonline.ru/uploads/manga/deadly-neighborhood-spiderman-2022/chapters/1/01.jpg",
   "chapters": {
     "1": {
-      "title": "Deadly Neighborhood Spider-Man #1",
+      "title": "Issue 1",
       "volume": "",
       "last_updated": "1666465560",
       "groups": {
-        "": "/proxy/api/imgur/chapter/ELhJIpm"
+        "": "/proxy/api/imgur/chapter/Mmwlep6"
+      }
+    },
+    "2": {
+      "title": "Issue 2",
+      "volume": "",
+      "last_updated": "1669333509",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hzIDpuZ"
       }
     }
   }
