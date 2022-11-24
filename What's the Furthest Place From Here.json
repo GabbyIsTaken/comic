@@ -6,7 +6,7 @@
   "cover": "https://readcomicsonline.ru/uploads/manga/whats-the-furthest-place-from-here/chapters/1/01.jpg",
   "chapters": {
     "1": {
-      "title": "What's the Furthest Place From Here? #1",
+      "title": "Issue 1",
       "volume": "",
       "last_updated": "1666761953",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "2": {
-      "title": "What's the Furthest Place From Here? #2",
+      "title": "Issue 2",
       "volume": "",
       "last_updated": "1666761963",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "3": {
-      "title": "What's the Furthest Place From Here? #3",
+      "title": "Issue 3",
       "volume": "",
       "last_updated": "1666762190",
       "groups": {
@@ -30,7 +30,7 @@
       }
     },
     "4": {
-      "title": "What's the Furthest Place From Here? #4",
+      "title": "Issue 4",
       "volume": "",
       "last_updated": "1666762197",
       "groups": {
@@ -38,7 +38,7 @@
       }
     },
     "5": {
-      "title": "What's the Furthest Place From Here? #5",
+      "title": "Issue 5",
       "volume": "",
       "last_updated": "1666762203",
       "groups": {
@@ -46,7 +46,7 @@
       }
     },
     "6": {
-      "title": "What's the Furthest Place From Here? #6",
+      "title": "Issue 6",
       "volume": "",
       "last_updated": "1666762208",
       "groups": {
@@ -54,11 +54,19 @@
       }
     },
     "7": {
-      "title": "What's the Furthest Place From Here? #7",
+      "title": "Issue 7",
       "volume": "",
       "last_updated": "1666762214",
       "groups": {
         "": "/proxy/api/imgur/chapter/2hDdrjx"
+      }
+    },
+    "8": {
+      "title": "Issue 8",
+      "volume": "",
+      "last_updated": "1669333775",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/p4jZ2JI"
       }
     }
   }
