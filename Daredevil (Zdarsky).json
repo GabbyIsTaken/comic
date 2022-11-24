@@ -1,6 +1,6 @@
 {
   "title": "Daredevil (Zdarsky)",
-  "description": "After a brush with death, Matt Murdock must piece together his shattered life — and that includes returning to action as Daredevil! But years of trauma have taken their toll, and becoming the guardian of Hell’s Kitchen he once was won’t be easy. Mistakes will be made along the way — and this time, one might actually prove to be the end of him. Because when a criminal dies, and Daredevil takes the blame, Matt must go on the run in a desperate bid to clear his name! But even he can’t outrun judgment forever. And with DD’s absence from Hell’s Kitchen, the real devils can come out to play.",
+  "description": "After a brush with death, Matt Murdock must piece together his shattered life — and that includes returning to action as Daredevil! But years of trauma have taken their toll, and becoming the guardian of Hell’s Kitchen he once was won’t be easy. Mistakes will be made along the way — and this time, one might actually prove to be the end of him. Because when a criminal dies, and Daredevil takes the blame, Matt must go on the run in a desperate bid to clear his name! But even he can’t outrun judgment forever. And with DD’s absence from Hell’s Kitchen, the real devils can come out to play.\n \n\neven though the issues go 1, 2, 3, etc., the legacy numbers skipped 652 for some reason\nguess they found a seemingly lost issue of daredevil",
   "artist": "Various",
   "author": "Chip Zdarsky",
   "cover": "https://readcomicsonline.ru/uploads/manga/daredevil-2019/chapters/1/01.jpg",
@@ -61,44 +61,52 @@
         "": "/proxy/api/imgur/chapter/RgR4Myx"
       }
     },
+    "649": {
+      "title": "The Red Fist Saga, Part 1",
+      "volume": "",
+      "last_updated": "1669332774",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3VMfUuQ"
+      }
+    },
+    "650": {
+      "title": "The Red Fist Saga, Part 2",
+      "volume": "",
+      "last_updated": "1669332796",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cNHsuNR"
+      }
+    },
+    "651": {
+      "title": "The Red Fist Saga, Part 3",
+      "volume": "",
+      "last_updated": "1669332880",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bPTGWt8"
+      }
+    },
+    "653": {
+      "title": "The Red Fist Saga, Part 4",
+      "volume": "",
+      "last_updated": "1669333170",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rBKVECX"
+      }
+    },
+    "654": {
+      "title": "The Red Fist Saga, Part 5",
+      "volume": "",
+      "last_updated": "1669333206",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QGRrQL5"
+      }
+    },
     "7.5": {
       "title": "Devil's Reign",
       "volume": "",
       "last_updated": "1667082913",
       "groups": {
         "": "/proxy/api/imgur/chapter/GxDkPuJ"
-      }
-    },
-    "8.1": {
-      "title": "The Red Fist Saga, Part 1",
-      "volume": "",
-      "last_updated": "1667083073",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/5HuHGCp"
-      }
-    },
-    "8.2": {
-      "title": "The Red Fist Saga, Part 2",
-      "volume": "",
-      "last_updated": "1667083117",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/ReE0cMs"
-      }
-    },
-    "8.3": {
-      "title": "The Red Fist Saga, Part 3",
-      "volume": "",
-      "last_updated": "1667083174",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/FTyxP5o"
-      }
-    },
-    "8.4": {
-      "title": "The Red Fist Saga, Part 4",
-      "volume": "",
-      "last_updated": "1667083183",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/yjd1UBo"
       }
     }
   }
