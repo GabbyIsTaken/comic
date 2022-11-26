@@ -34,7 +34,7 @@
       "volume": "",
       "last_updated": "1669416221",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/TnmDci7"
       }
     },
     "5": {
@@ -42,15 +42,33 @@
       "volume": "",
       "last_updated": "1669416257",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgur/chapter/hQG9X7f"
       }
     },
     "6": {
-      "title": "Challenge of the Super Sons",
+      "title": "Challenge of the Super Sons, Vol. 1",
       "volume": "",
       "last_updated": "1669416268",
       "groups": {
+        "": "/proxy/api/imgur/chapter/LvClp8T"
+      }
+    },
+    "8": {
+      "title": "Gridlock",
+      "volume": "",
+      "last_updated": "1669432083",
+      "groups": {
         "": ""
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "",
+      "last_updated": "1669432334",
+      "groups": {
+        "": [
+          ""
+        ]
       }
     },
     "2.5": {
