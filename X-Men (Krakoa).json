@@ -1,0 +1,89 @@
+{
+  "title": "X-Men: The Krakoa Era",
+  "description": "This is the current status-quo of all mutants. This will include every mutant-related series. You do not need to read all of them (like I did last year. god. i spent like 12 hours reading 4000 pages and only got to the end of Dawn. please. do not be like me.). Try reading the first volume of each series and if you don't like it, move on and skip the others! It's ok! If something important's referenced, there'll probably be a little editor's note saying \"Hey! This happened in [X-Guy], Issue [Whatever]!\" so just look up what volume that's in and read only that!\nThe only ones you have to read are the events, which you can usually distinguish because they are one volume and like 400 pages each. Since every comic is connected (even if only tangentally) the events will affect all of them, so just deal with it. or you can look up a summary idk\n \n\n\"While you slept, the world changed.\"\nHOUSE OF X and POWERS OF X intertwine to reveal the secret past, present, future, and far future of Mutantkind! It all starts when Charles Xavier reveals his new masterplan for Mutantkind, one that will bring mutants out of the shadow of humanity and into the light.",
+  "artist": "Various",
+  "author": "Various",
+  "cover": "https://m.media-amazon.com/images/I/91xYqshXTmL.jpg",
+  "chapters": {
+    "1": {
+      "title": "House of X/Powers of X",
+      "volume": "",
+      "last_updated": "1669529076",
+      "groups": {
+        "": ""
+      }
+    },
+    "2": {
+      "title": "X-Men by Jonathan Hickman, Vol. 1",
+      "volume": "",
+      "last_updated": "1669529177",
+      "groups": {
+        "": ""
+      }
+    },
+    "3": {
+      "title": "Marauders by Gerry Duggan, Vol. 1",
+      "volume": "",
+      "last_updated": "1669529195",
+      "groups": {
+        "": ""
+      }
+    },
+    "4": {
+      "title": "X-Force by Benjamin Percy, Vol. 1",
+      "volume": "",
+      "last_updated": "1669529466",
+      "groups": {
+        "": ""
+      }
+    },
+    "5": {
+      "title": "Excalibur by Tini Howard, Vol. 1",
+      "volume": "",
+      "last_updated": "1669529523",
+      "groups": {
+        "": ""
+      }
+    },
+    "6": {
+      "title": "New Mutants by Jonathan Hickman",
+      "volume": "",
+      "last_updated": "1669529538",
+      "groups": {
+        "": ""
+      }
+    },
+    "7": {
+      "title": "Fallen Angels by Bryan Hill",
+      "volume": "",
+      "last_updated": "1669529560",
+      "groups": {
+        "": ""
+      }
+    },
+    "8": {
+      "title": "X-Men by Jonathan Hickman, Vol. 2",
+      "volume": "",
+      "last_updated": "1669529636",
+      "groups": {
+        "": ""
+      }
+    },
+    "9": {
+      "title": "New Mutants by Ed Brisson, Vol. 1",
+      "volume": "",
+      "last_updated": "1669529660",
+      "groups": {
+        "": ""
+      }
+    },
+    "10": {
+      "title": "X-Force by Benjamin Percy, Vol. 2",
+      "volume": "",
+      "last_updated": "1669529691",
+      "groups": {
+        "": ""
+      }
+    }
+  }
+}
