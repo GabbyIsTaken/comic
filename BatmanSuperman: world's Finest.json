@@ -6,43 +6,11 @@
   "cover": "https://m.media-amazon.com/images/I/91t9PdLF8TL.jpg",
   "chapters": {
     "1": {
-      "title": "The Devil Nezuha, Chapter One: Doomed",
+      "title": "The Devil Nezha",
       "volume": "",
-      "last_updated": "1669080814",
+      "last_updated": "1682221993",
       "groups": {
-        "": "/proxy/api/imgur/chapter/p1jub6m"
-      }
-    },
-    "2": {
-      "title": "The Devil Nezuha, Chapter Two: The Devil Himself",
-      "volume": "",
-      "last_updated": "1669080825",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/8vFrL7v"
-      }
-    },
-    "3": {
-      "title": "The Devil Nezuha, Chapter Three: House of Ji",
-      "volume": "",
-      "last_updated": "1669080837",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/5uOrlHC"
-      }
-    },
-    "4": {
-      "title": "The Devil Nezuha, Chapter Four: The Devil's Secret",
-      "volume": "",
-      "last_updated": "1669080858",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/wv07QjG"
-      }
-    },
-    "5": {
-      "title": "The Devil Nezuha, Chapter Five: Sacrifice Play",
-      "volume": "",
-      "last_updated": "1669080876",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/6iHrrYY"
+        "": "/proxy/api/imgur/chapter/2GCajp5"
       }
     },
     "6": {
@@ -75,6 +43,46 @@
       "last_updated": "1669080946",
       "groups": {
         "": "/proxy/api/imgur/chapter/nnPgHhD"
+      }
+    },
+    "10": {
+      "title": "Strange Visitor, Chapter Four: Secret Passages",
+      "volume": "",
+      "last_updated": "1682225007",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/SgtgIli"
+      }
+    },
+    "11": {
+      "title": "Strange Visitor, Chapter Five: Keys to the Kingdom",
+      "volume": "",
+      "last_updated": "1682225082",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/A5NRkgY"
+      }
+    },
+    "12": {
+      "title": "Scream of the Chaos Monkey",
+      "volume": "",
+      "last_updated": "1682225133",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Wkm5V84"
+      }
+    },
+    "13": {
+      "title": "Elementary, Chapter One: The Facts of the Case",
+      "volume": "",
+      "last_updated": "1682225237",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vD85QNV"
+      }
+    },
+    "14": {
+      "title": "Elementary, Chapter Two: Manhunt",
+      "volume": "",
+      "last_updated": "1682225281",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6izUjOM"
       }
     }
   }
